@@ -1,4 +1,4 @@
-<img src="images/sae.png" alt="half baked">
+<img src="images/sae.png" height="300px" alt="half baked">
 
 ### Welcome to my profile, San here
 
