@@ -5,7 +5,6 @@
 ### 🌍 〢 Currently Working On
 🎮 » [CarbonX](https://CarbonX.gg) • Private Counter Strike 2 Software
 </a>
-<br><br><br><br><br>
 
 <img align="left" src="images/FAJNE.png" height="306px" alt="cute">
 
